@@ -23,5 +23,6 @@ public class AreaOfIsoscelesTriangle {
             double area=0.5*b*height;
             // 
             System.out.printf("Area of the isosceles triangle: %.2f\n", area);        }
+            in.close();
     }
 }

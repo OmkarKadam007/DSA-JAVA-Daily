@@ -8,7 +8,7 @@ public class AreaOfReactangel {
             int w=in.nextInt();
 
             System.out.println("The area od reactang"+l*w);
-            // Scanner.close();
+            in.close();
 
         }
 }   

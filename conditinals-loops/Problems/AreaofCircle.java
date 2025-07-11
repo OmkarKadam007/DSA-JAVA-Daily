@@ -7,7 +7,7 @@ public class AreaofCircle {
             double r = in.nextDouble();
             double area = Math.PI * r * r;
             System.out.printf("Area = %.2f\n", area);
-
+            in.close();
 
         }
 }   

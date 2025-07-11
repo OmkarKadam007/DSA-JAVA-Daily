@@ -22,7 +22,7 @@ public class AreaOfTriangle {
         double s=(a+b+c)/2;
         double area=Math.sqrt(s*(s-a)*(s-b)*(s-c));
         System.out.println("Area of Trangel "+area);
-
+        in.close();
 
     }
 }

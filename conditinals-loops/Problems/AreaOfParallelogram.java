@@ -10,11 +10,12 @@ public class AreaOfParallelogram {
        if(base <=0 || height <=0)
        {
         System.out.println("Invalid input {lses etry again }");
-        return ;
+        in.close();
+        return;
 
        }
         double area=base*height;
         System.out.println("Area od PArallelogram:"+area);
-
-    }
+       in.close();
+    }   
 }

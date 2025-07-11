@@ -44,5 +44,6 @@ public class NestedSwitch {
                         System.out.println("DEfault mno t match ");
                         break;
                 }
+                in.close();
             }
 }
