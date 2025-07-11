@@ -20,5 +20,6 @@ public class Largest {
       
         }
      System.out.println("large number "+ max);
+     in.close();
   }
 }
