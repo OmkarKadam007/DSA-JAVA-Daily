@@ -189,6 +189,6 @@ Handling mutability in converted lists
 - **Context**: Created a two-level menu to select shape category and type
 - **What I learned**:
   - Implementing logic based on user role or shape group
-  - Designing reusable nested structures with fallback defaults
+  # - Designing reusable nested structures with fallback defaults
 
 ---
