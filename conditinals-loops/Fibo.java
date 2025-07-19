@@ -20,6 +20,6 @@ public class Fibo {
       
     }
     System.out.println("fibonach" + b);
-
+    in.close();
   }
 }
